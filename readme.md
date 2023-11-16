@@ -3,12 +3,19 @@ This is a tutorial on how to setup and use a virtual private network (VPN) using
 
 <h2>Software necessary for operation </h2>
 
--Proton VPN
+- Proton VPN
 
 <h3>Installation </h3>
 
--Go to the Proton VPN website through your prefered search engine or this url (https://protonvpn.com)
+- Go to the Proton VPN website through your prefered search engine or this url (https://protonvpn.com)
 <p>
-<img src="Opera Snapshot_2023-11-16_125131_protonvpn.com.png" height="80%" width="80%" alt="Proton VPN website"/>
+<img src="proton VPN website.png" height="80%" width="80%" alt="Proton VPN website"/>
 </p>
-
+- Use the menu bar in the top right corner to show the side menu and click download
+<p>
+<img src="download location.png" height="80%" width="80%" alt="download button"/>
+</p>
+- click the VPN for windows button  
+<p>
+<img src="VPN for windows.png" height="80%" width="80%" alt="Windows button"/>
+</p>
