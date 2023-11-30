@@ -11,7 +11,8 @@ This is a tutorial on how to setup and use a virtual private network (VPN) using
 <p>
 <img src="proton VPN website.png" height="80%" width="80%" alt="Proton VPN website"/>
 </p>
-- Use the menu bar in the top right corner to show the side menu and click download
+- Use the menu bar in the top right corner to show the side menu and click create account
+- Use the menu bar and click download
 <p>
 <img src="download location.png" height="80%" width="80%" alt="download side bar"/>
 </p>
@@ -26,3 +27,4 @@ This is a tutorial on how to setup and use a virtual private network (VPN) using
 - Follow the instructions in the installer
 <img src="proton install p1.PNG" height="80%" width="80%" alt="installer"/>
 </p>
+-open the 
