@@ -12,19 +12,28 @@ This is a tutorial on how to setup and use a virtual private network (VPN) using
 <img src="proton VPN website.png" height="80%" width="80%" alt="Proton VPN website"/>
 </p>
 - Use the menu bar in the top right corner to show the side menu and click create account
-- Use the menu bar and click download
+<img src="create account.PNG" height="80%" width="80%" alt="create account"/>
+</p>
+- Click the Proton free and continue with free in the pop-up window
+<p>
+<img src="Proton free login.PNG" height="80%" width="80%" alt="proton free"/>
+</p>
+<p>
+<img src="continue with free.PNG" height="80%" width="80%" alt="continue with free"/>
+</p>
+- Go back to the menu bar and click download
 <p>
 <img src="download location.png" height="80%" width="80%" alt="download side bar"/>
 </p>
-- click the VPN for windows button  
+- Click the VPN for windows button  
 <p>
 <img src="VPN for windows.png" height="80%" width="80%" alt="Windows side bar"/>
 </p>
-- click the Download Proton VPN and save it to the file location of your choosing
+- Click the Download Proton VPN and save it to the file location of your choosing
 <p>
 <img src="download page.png" height="80%" width="80%" alt="download button"/>
 </p>
 - Follow the instructions in the installer
 <img src="proton install p1.PNG" height="80%" width="80%" alt="installer"/>
 </p>
--open the 
+- Open the 
