@@ -34,6 +34,14 @@ This is a tutorial on how to setup and use a virtual private network (VPN) using
 <img src="download page.png" height="80%" width="80%" alt="download button"/>
 </p>
 - Follow the instructions in the installer
+<p>
 <img src="proton install p1.PNG" height="80%" width="80%" alt="installer"/>
 </p>
-- Open the 
+- Open the proton VPN app and input your login information
+<p>
+<img src="login.PNG" height="80%" width="80%" alt="installer"/>
+</p>
+- Click auto-connect to connect to a randon VPN Region
+<p>
+<img src="connect.PNG" height="80%" width="80%" alt="installer"/>
+</p>
