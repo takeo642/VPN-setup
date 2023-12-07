@@ -16,7 +16,7 @@ This is a tutorial on how to setup and use a virtual private network (VPN) using
 </p>
 - Click the Proton free and continue with free in the pop-up window
 <p>
-<img src="Proton free login.PNG" height="80%" width="80%" alt="proton free"/>
+<img src="proton free login.PNG" height="80%" width="80%" alt="proton free"/>
 </p>
 <p>
 <img src="continue with free.PNG" height="80%" width="80%" alt="continue with free"/>
